@@ -1,0 +1,36 @@
+**Homepage Mockup:**
+
+*   Hero Section: Large, captivating image or video showcasing AI applications.  Headline: "Logicware: Empowering Businesses with AI in Dubai." Subheadline:  "Unlocking the potential of artificial intelligence for your business."  Call to action button: "Explore Our Services."
+*   Services Section: Briefly describe key services (AI Consulting, Custom AI Development, AI Training) with icons and short descriptions.  Links to dedicated service pages.
+*   About Us Section: Short introduction to Logicware, highlighting their expertise and location in Dubai.
+*   Case Studies Section: Showcase successful projects with brief summaries and links to detailed case studies.
+*   Contact Section: Contact form or contact information with a map of their Dubai location.
+
+**Services Page Mockups (Example - AI Consulting):**
+
+*   Headline: "AI Consulting Services."
+*   Detailed description of AI consulting services, including benefits and process.
+*   High-quality images or icons related to consulting.
+*   Client testimonials (if available).
+
+**About Us Page Mockup:**
+
+*   Company history and mission.
+*   Team member introductions (with photos and brief bios).
+*   Company values and culture.
+
+**Contact Us Page Mockup:**
+
+*   Contact form with fields for name, email, message.
+*   Company address, phone number, email address.
+*   Map showing their Dubai location.
+
+
+**Visual Considerations:**
+
+*   Color Palette: Modern and sophisticated, reflecting Logicware's AI expertise. Consider blues, grays, and accents of a vibrant color (e.g., teal or orange).
+*   Typography: Clean and modern fonts that are easy to read.
+*   Imagery: High-quality images and videos showcasing AI technology and its applications in business.  Use professional photography or stock photos that align with the brand.
+*   Layout: Clean and uncluttered layout with ample white space.  Responsive design for optimal viewing on all devices.
+
+  </mockups.txt>

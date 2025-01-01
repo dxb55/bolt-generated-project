@@ -1,0 +1,11 @@
+Homepage
+  - About Us
+  - Services
+    - AI Consulting
+    - Custom AI Development
+    - AI Training & Workshops
+  - Case Studies
+  - Contact Us
+  - Careers (Optional)
+  - Blog (Optional)
+  </sitemap.txt>
